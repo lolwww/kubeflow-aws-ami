@@ -6,6 +6,11 @@ Kubeflow is installed on top of microk8s using juju on EC2 VM.
 
 Steps are not automated at this point yet.
 
+Disclaimer:
+This is the first working version of this AMI.
+There are many things to improve, I know.
+Feel free to propose changes.
+
 ## Prerequisites
 
 EC2 virtual machine t3.xlarge flavor with 80g of disk.
